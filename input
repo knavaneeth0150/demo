@@ -1,6 +1,9 @@
 function login(username, password) {
   if (!username || !password) {
-    return "Invalid credentials";
+    return "Username and password required";
+  }
+  if (password.length < 8) {
+    return "Password too short";
   }
   return "Login successful";
 }
