@@ -1,0 +1,10 @@
+{
+  "agent": "Code Change Detection and Impact Analysis",
+  "module": "login",
+  "change_type": "logic_update",
+  "expected_qa_focus": [
+    "regression testing",
+    "negative testing",
+    "security testing"
+  ]
+}
