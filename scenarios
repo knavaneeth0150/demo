@@ -1,0 +1,48 @@
+These scenarios are used as input to test whether the agent correctly converts them into user stories.
+
+
+
+- Scenario 1
+User logs into the application using username and password.
+
+- Scenario 2
+User enters an incorrect password and receives an error message.
+
+- Scenario 3
+User resets password using a forgot password email link.
+
+- Scenario 4
+New user registers by providing name, email, and password.
+
+- Scenario 5
+User updates profile information after logging in.
+
+- Scenario 6
+User logs out from the application.
+
+- Scenario 7
+System detects code changes when a new commit is pushed to GitHub.
+
+- Scenario 8
+QA engineer wants to see the list of files changed in the latest commit.
+
+- Scenario 9
+System selects only impacted regression test cases after code changes.
+
+- Scenario 10
+CI/CD pipeline fails during the build stage.
+
+- Scenario 11
+System creates a defect automatically when a test case fails.
+
+- Scenario 12
+User receives a notification when test execution fails.
+
+- Scenario 13
+User views test execution summary report after completion.
+
+- Scenario 14
+Admin restricts feature access based on user role.
+
+-Scenario 15
+Release manager checks quality metrics before approving a release.
